@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DixitJadav11
 - 👀 I’m currently working on Data Science projects.
-- 🌱 I’m currently learning RNN
+- 🌱 I’m currently learning Data Science tools
 - 💞️ I’m looking to collaborate on any end to end Data Science project.
 - 📫 How to reach me:
     dixitjadav753@gmail.com
