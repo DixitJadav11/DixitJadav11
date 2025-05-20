@@ -5,7 +5,7 @@
 - 📫 How to reach me:
     dixitjadav753@gmail.com
 - 😄 Quote: PREDICTING THE FUTURE ISN'T MAGIC, IT'S ARTIFICIAL INTELLIGENCE
-- 2024 Goals: To be more productive and successful
+- 2025 Goals: To be more productive and successful
 - ⚡ Fun fact: I'm graduate mechanical engineer
 
 <!---
